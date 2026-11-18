@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Shifa 👋
 
-<!--
-**shifaalnakhlani-eng/shifaalnakhlani-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building practical projects in **data analytics** and **web development**, with a focus on turning data into clear insights and useful digital experiences.
 
-Here are some ideas to get you started:
+## 🔎 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What you'll find |
+|---|---|
+| [SQL Data Analysis Projects](https://github.com/shifaalnakhlani-eng/SQL-data-analysis-projects-) | SQL analysis, including a Zepto data analysis project, plus Python and Power BI portfolio sections |
+| [Customer Trends Data Analysis](https://github.com/shifaalnakhlani-eng/customer-trends-data-analysis-SQL-Python-PowerBI) | End-to-end customer shopping behaviour analysis using SQL, Python and Power BI |
+| [Amazon Picks Website](https://github.com/shifaalnakhlani-eng/shifaalnakhlani.github.io) | A product-curation website prototype built with HTML and CSS |
+| [Scholarship Platform](https://github.com/shifaalnakhlani-eng/scholarship-platform) | A front-end scholarship management prototype |
+
+## 🛠️ Tools & Technologies
+
+- **Data:** SQL, Python, Power BI
+- **Web:** HTML, CSS
+- **Workflow:** Jupyter Notebook, Git, GitHub
+
+## 🌱 What I'm Working On
+
+- Strengthening my data cleaning, analysis and visualisation skills
+- Building portfolio projects that connect technical analysis with business questions
+- Improving my web development and project documentation
+
+## 🤝 Let's Connect
+
+Explore my repositories and follow along as I continue learning and building.
+
+- **GitHub:** [@shifaalnakhlani-eng](https://github.com/shifaalnakhlani-eng)
