@@ -8,7 +8,6 @@ I'm building practical projects in **data analytics** and **web development**, w
 |---|---|
 | [SQL Data Analysis Projects](https://github.com/shifaalnakhlani-eng/SQL-data-analysis-projects-) | SQL analysis, including a Zepto data analysis project, plus Python and Power BI portfolio sections |
 | [Customer Trends Data Analysis](https://github.com/shifaalnakhlani-eng/customer-trends-data-analysis-SQL-Python-PowerBI) | End-to-end customer shopping behaviour analysis using SQL, Python and Power BI |
-| [Amazon Picks Website](https://github.com/shifaalnakhlani-eng/shifaalnakhlani.github.io) | A product-curation website prototype built with HTML and CSS |
 | [Scholarship Platform](https://github.com/shifaalnakhlani-eng/scholarship-platform) | A front-end scholarship management prototype |
 
 ## 🛠️ Tools & Technologies
